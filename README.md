@@ -1,0 +1,1 @@
+# Deep-Learning-Based-Inverse-Prediction-of-Side-Collision-in-Electric-Vehicle
